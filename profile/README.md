@@ -83,7 +83,7 @@ flowchart TD
 ```
 
 * **ICC profile library**: High-accuracy color-calibration curves built for each ink series and substrate.
-* **Printhead waveform specifications**: Physical curves and jetting behavior matched to mainstream industrial printheads, including Epson, Ricoh, Kyocera, and Konica.
+* **Printhead waveform specifications**: An adaptation guide for the physical curves and jetting waveforms of mainstream industrial printheads, including Epson, Ricoh, Kyocera, and Konica.
 * **Digital color-matching algorithms and tools**: Help customers close color difference quickly for short runs and on-demand proofs in textile and packaging work.
 
 ---
