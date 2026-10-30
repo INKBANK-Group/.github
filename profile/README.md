@@ -22,7 +22,7 @@
   <a href="https://en.inkbank.com.cn">🌍 Global Website</a> •
   <a href="#-core-business--application-matrix">📦 Products &amp; Solutions</a> •
   <a href="#-rd-and-industry-standards">🔬 R&amp;D &amp; Standards</a> •
-  <a href="#-contact-us">📬 Contact Us</a>
+  <a href="#contact-us">📬 Contact Us</a>
 </p>
 
 ---
@@ -69,3 +69,31 @@ INKBANK’s approach is “technology first, quality as the foundation.” Its w
 ## 💻 Digital Ecosystem and Developer Tools
 
 For complete digital inkjet solutions, INKBANK supplies the chemistry and co-develops the supporting toolchain with board vendors, printhead OEMs, and RIP software partners.
+
+```mermaid
+flowchart TD
+    heads["Industrial printheads / board systems"]
+    wave["Rheology and waveform library<br/>Voltage and pulse-width mapping<br/>Drop flight speed and satellite suppression"]
+    rip["RIP rendering and color calibration<br/>ICC profile construction<br/>Multi-channel separation, ink limits, and linearization"]
+    delivery["INKBANK print delivery"]
+    heads --> wave
+    heads --> rip
+    wave --> delivery
+    rip --> delivery
+```
+
+* **ICC profile library**: High-accuracy color-calibration curves built for each ink series and substrate.
+* **Printhead waveform specifications**: Physical curves and jetting behavior matched to mainstream industrial printheads, including Epson, Ricoh, Kyocera, and Konica.
+* **Digital color-matching algorithms and tools**: Help customers close color difference quickly for short runs and on-demand proofs in textile and packaging work.
+
+---
+
+<a id="contact-us"></a>
+
+## 📬 Contact & Global Network
+
+* **Websites**: [www.inkbank.com.cn](https://www.inkbank.com.cn) | [en.inkbank.com.cn](https://en.inkbank.com.cn)
+* **Sales and purchasing**: `inkbank@inkbank.com.cn` / `caigou@inkbank.com.cn`
+* **Phone**: +86-0755-29592301
+* **Headquarters**: Building C, Hejing Industrial Zone, High-tech Park, Zhancheng Community, Fuhai Subdistrict, Bao'an District, Shenzhen, Guangdong
+* **Manufacturing base**: Zhuhai INKBANK Science Park, Nanshui Town, Jinwan District, Zhuhai, Guangdong
