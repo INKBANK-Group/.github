@@ -70,16 +70,22 @@ INKBANK’s approach is “technology first, quality as the foundation.” Its w
 
 For complete digital inkjet solutions, INKBANK supplies the chemistry and co-develops the supporting toolchain with board vendors, printhead OEMs, and RIP software partners.
 
-```mermaid
-flowchart TD
-    heads["Industrial printheads / board systems"]
-    wave["Rheology and waveform library<br/>Voltage and pulse-width mapping<br/>Drop flight speed and satellite suppression"]
-    rip["RIP rendering and color calibration<br/>ICC profile construction<br/>Multi-channel separation, ink limits, and linearization"]
-    delivery["INKBANK print delivery"]
-    heads --> wave
-    heads --> rip
-    wave --> delivery
-    rip --> delivery
+```text
+[ Industrial printheads / board systems ]
+                |
+     +----------+----------+
+     |                     |
+     v                     v
+[ Rheology & Waveform ]   [ RIP rendering & color ]
+  • Voltage / pulse-width     • ICC profile construction
+    mapping                   • Multi-channel separation,
+  • Drop flight speed &         ink limits & linearization
+    satellite suppression
+     |                     |
+     +----------+----------+
+                |
+                v
+      [ INKBANK print delivery ]
 ```
 
 * **ICC profile library**: High-accuracy color-calibration curves built for each ink series and substrate.
