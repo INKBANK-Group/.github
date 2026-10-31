@@ -1,105 +1,54 @@
 <div align="center">
 
-# SHENZHEN INKBANK NEW MATERIALS GROUP CO., LTD.
-### 深圳市墨库新材料集团股份有限公司
+# INKBANK
+**SHENZHEN INKBANK NEW MATERIALS GROUP CO., LTD.**  
+深圳市墨库新材料集团股份有限公司
 
-<p align="center">
-  <b>More than 20 years focused on the R&amp;D and manufacture of digital inkjet inks and digital application solutions</b><br>
-  <i>One of China’s leading digital inkjet suppliers · A national “Little Giant” enterprise</i>
-</p>
+*20+ years innovating in digital inkjet inks and application solutions.*
 
-<!-- Core credential badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/National-Little_Giant-blue.svg" alt="Little Giant">
-  <img src="https://img.shields.io/badge/Certified-National_High--tech_Enterprise-brightgreen.svg" alt="High-tech">
-  <img src="https://img.shields.io/badge/Ranking-Ink_World_Global_Inks-orange.svg" alt="Ink World">
-  <img src="https://img.shields.io/badge/Capacity-40%2C000%2B_tons%2Fyear-purple.svg" alt="Capacity">
-  <img src="https://img.shields.io/badge/Reach-100%2B_countries_%26_regions-success.svg" alt="Global Reach">
-</p>
+[![Little Giant](https://img.shields.io/badge/National-Little_Giant-0052CC?style=flat-square)](#)
+[![High-Tech](https://img.shields.io/badge/National-High--Tech_Enterprise-00875A?style=flat-square)](#)
+[![Ink World](https://img.shields.io/badge/Top_Ranked-Ink_World_Global-FF8B00?style=flat-square)](#)
+[![Capacity](https://img.shields.io/badge/Capacity-40,000+_Tons/Yr-6554C0?style=flat-square)](#)
+[![Global Reach](https://img.shields.io/badge/Global-100+_Countries-36B37E?style=flat-square)](#)
 
-<p align="center">
-  <a href="https://www.inkbank.com.cn">🌐 Chinese Website</a> •
-  <a href="https://en.inkbank.com.cn">🌍 Global Website</a> •
-  <a href="#-core-business--application-matrix">📦 Products &amp; Solutions</a> •
-  <a href="#-rd-and-industry-standards">🔬 R&amp;D &amp; Standards</a> •
-  <a href="#contact-us">📬 Contact Us</a>
-</p>
+[Chinese Website](https://www.inkbank.com.cn) • [Global Website](https://en.inkbank.com.cn) • [Contact Us](#contact)
 
----
 </div>
 
-## 🏢 About INKBANK
+## About Us
 
-**Shenzhen INKBANK New Materials Group Co., Ltd.** (brand: **INKBANK**) has worked in digital inkjet inks and printing application technology for more than 20 years. From its Shenzhen headquarters and the **Zhuhai INKBANK Science Park digital manufacturing base** — a RMB 350 million investment on about 50,000 m² — the company has built a modern capacity of **40,000 tons a year**. It has long held a leading share of China’s digital inkjet ink market and has ranked for consecutive years on the global ink-company list published by *Ink World*.
+**INKBANK** is a leading digital inkjet ink manufacturer in China and a strategic partner of **Epson**. Backed by our Shenzhen headquarters and the 50,000 m² intelligent manufacturing base in Zhuhai, we deliver **40,000+ tons of high-purity inks annually** to over 100 countries and regions.
 
-* **R&amp;D-driven**: Home to the Guangdong Inkjet Engineering Technology Research Center and China’s digital textile-printing inkjet ink R&amp;D and production base.
-* **Full-chain quality control**: ISO 9001, ISO 14001, Six Sigma, and an intelligent ERP system are in place. Multiple solutions hold OEKO-TEX® and GOTS 6.0/7.0 ecological safety certifications.
-* **Digital integration**: Nanoscale dispersion, micro-droplet jetting rheology, digital color control, and driver firmware algorithms are developed together.
+- **R&D Leadership**: Led by a chief scientist with 30 years of Fortune 500 inkjet research experience, operating the Guangdong Inkjet Engineering Technology Research Center.
+- **IP & Standards**: 50+ granted patents (30+ invention patents). Lead drafter of China's press and publication industry inkjet standards and co-drafter of national digital printing standards.
+- **Certifications**: ISO 9001, ISO 14001, Six Sigma, OEKO-TEX®, and GOTS 6.0/7.0 certified.
 
----
+## Solutions Matrix
 
-## 🎨 Core Business & Application Matrix
-
-INKBANK runs complete colorant lines (dye, pigment, and sublimation concentrates) and high-purity finished-ink lines, covering industrial and consumer printing end to end:
-
-| Sector | Core inks and solutions | Typical applications and technical highlights |
+| Sector | Core Inks | Key Applications |
 | :--- | :--- | :--- |
-| **Textile digital printing** | Sublimation inks, high-fastness high-temperature disperse inks, digital pigment inks, reactive inks, and acid inks | • **DTG/DTF**: pretreatment-free white-ink heat transfer and drop-on-demand (DoD) wet direct printing<br>• Apparel, home-textile piece goods, and deep-penetration printing on high-stretch cycling and outdoor fabrics |
-| **Advertising graphics and imaging** | Eco-solvent inks, water-based latex inks, and high-fidelity dye and pigment inks | • **Water-based latex**: near-zero VOC and highly elastic films that resist cracking on leather<br>• Weather-resistant outdoor graphics, fine-art inkjet, and high-resolution CAD plots |
-| **Building materials and industrial décor** | LED-UV curable inks (rigid, soft, and flexible) and UV crystal-label inks | • Ceramic tile and building materials, acrylic, metal signage, glass, and folding cartons<br>• High-adhesion light-cure formulations for uneven substrates |
-| **Digital print and packaging** | High-speed web water-based pigment inks and inks for industrial flexible packaging | • Print-on-demand (POD) books and periodicals, variable coding on labels, and digital overprinting on corrugated cartons |
-| **Office and desktop printing** | Desktop continuous ink supply (CISS) inks and low-impact, high-lightfast pigment and dye inks | • Compatible with mainstream Epson, Canon, and HP desktop printers, with reliable jetting and printhead life |
-| **Emerging printed electronics** | Functional nanoscale conductive inks and specialty coatings | • Printed flexible circuits, specialty labels, and intelligent anti-counterfeit and identification solutions |
+| **Textile Printing** | Sublimation, Disperse, Pigment, Reactive, Acid | Pretreatment-free DTG/DTF, apparel, home textiles, sportswear |
+| **Graphics & Signage** | Eco-solvent, Water-based Latex, High-fidelity Dye/Pigment | Near-zero VOC leather printing, outdoor graphics, fine art, CAD |
+| **Industrial Décor** | LED-UV Curable (rigid/flexible), UV Crystal-label | Ceramics, glass, acrylic, metal signage, uneven substrates |
+| **Print & Packaging** | High-speed Web Pigment, Flexible Packaging Inks | Print-on-demand (POD) books, variable data coding, corrugated boxes |
+| **Office & Desktop** | CISS Inks, High-lightfast Pigment & Dye | Desktop printers (Epson, Canon, HP) with extended printhead life |
+| **Printed Electronics** | Nanoscale Conductive Inks, Specialty Coatings | Flexible circuits, smart labels, anti-counterfeiting |
 
----
+## Digital & Developer Ecosystem
 
-## 🔬 R&amp;D and Industry Standards
+Beyond chemical formulations, INKBANK co-develops hardware-software integration tools with printhead OEMs, board vendors, and RIP software partners:
 
-INKBANK’s approach is “technology first, quality as the foundation.” Its work in micro- and nanoscale materials and inkjet mechanisms includes:
+    [Printheads & Boards] ──> [Rheology & Waveforms] + [ICC & RIP Color Engine] ──> [INKBANK Print Delivery]
 
-- **Scientist-led R&amp;D**: The center is headed by a Chinese-American chief scientist with nearly 30 years of inkjet research at a U.S. Fortune 500 company, leading teams in materials, polymer chemistry, and rheology.
-- **Patents**: More than 90 applications filed and 50+ patents granted, including 30+ invention patents.
-- **Standards**:
-  - Co-drafter of the national standard *Test Methods for Image Quality Attributes of Digital Inkjet Printing*;
-  - **Lead drafting organization** of the press and publication industry standard *Requirements and Test Methods for Inkjet Printing Inks*;
-  - Named a strategic partner by Epson.
+- **Printhead Waveforms**: Physical rheology adaptation and jetting waveform guides for Epson, Ricoh, Kyocera, and Konica industrial printheads.
+- **ICC Profile Library**: High-precision color calibration profiles tailored to specific ink series and substrates.
+- **Color Algorithms**: Fast digital color-matching and multi-channel ink-limiting tools for short-run and on-demand production.
 
----
+## Contact
 
-## 💻 Digital Ecosystem and Developer Tools
-
-For complete digital inkjet solutions, INKBANK supplies the chemistry and co-develops the supporting toolchain with board vendors, printhead OEMs, and RIP software partners.
-
-```text
-[ Industrial printheads / board systems ]
-                |
-     +----------+----------+
-     |                     |
-     v                     v
-[ Rheology & Waveform ]   [ RIP rendering & color ]
-  • Voltage / pulse-width     • ICC profile construction
-    mapping                   • Multi-channel separation,
-  • Drop flight speed &         ink limits & linearization
-    satellite suppression
-     |                     |
-     +----------+----------+
-                |
-                v
-      [ INKBANK print delivery ]
-```
-
-* **ICC profile library**: High-accuracy color-calibration curves built for each ink series and substrate.
-* **Printhead waveform specifications**: An adaptation guide for the physical curves and jetting waveforms of mainstream industrial printheads, including Epson, Ricoh, Kyocera, and Konica.
-* **Digital color-matching algorithms and tools**: Help customers close color difference quickly for short runs and on-demand proofs in textile and packaging work.
-
----
-
-<a id="contact-us"></a>
-
-## 📬 Contact & Global Network
-
-* **Websites**: [www.inkbank.com.cn](https://www.inkbank.com.cn) | [en.inkbank.com.cn](https://en.inkbank.com.cn)
-* **Sales and purchasing**: `inkbank@inkbank.com.cn` / `caigou@inkbank.com.cn`
-* **Phone**: +86-0755-29592301
-* **Headquarters**: Building C, Hejing Industrial Zone, High-tech Park, Zhancheng Community, Fuhai Subdistrict, Bao'an District, Shenzhen, Guangdong
-* **Manufacturing base**: Zhuhai INKBANK Science Park, Nanshui Town, Jinwan District, Zhuhai, Guangdong
+- **Web**: [inkbank.com.cn](https://www.inkbank.com.cn) / [en.inkbank.com.cn](https://en.inkbank.com.cn)
+- **Email**: [inkbank@inkbank.com.cn](mailto:inkbank@inkbank.com.cn) (Sales) / [caigou@inkbank.com.cn](mailto:caigou@inkbank.com.cn) (Purchasing)
+- **Tel**: +86-0755-29592301
+- **HQ**: Building C, Hejing Industrial Zone, Fuhai Subdistrict, Bao'an District, Shenzhen, Guangdong
+- **Factory**: Zhuhai INKBANK Science Park, Nanshui Town, Jinwan District, Zhuhai, Guangdong
